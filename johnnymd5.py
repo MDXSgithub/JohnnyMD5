@@ -14,7 +14,7 @@ args = None
 class MD5ChecksumApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("MD5 Checksum Calculator")
+        self.root.title("Johnny 5 - MD5 Checksum Calculator")
 
         self.basedir_entries = []
         self.subdirs_listboxes = []
