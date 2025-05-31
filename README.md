@@ -19,7 +19,7 @@ Tkinter library (included with Python standard library)
 
 How to Run:
 - Download the Script
-- Ensure you have the script file (md5_checksum_calculator.py) on your local machine.
+- Ensure you have the script file on your local machine.
 - Run the Script
 - Open a terminal or command prompt, navigate to the directory containing the script and run johnnymd5.py
 
